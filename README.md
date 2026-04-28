@@ -77,6 +77,14 @@ Allow designers to create:
   
 ---  
 ### Effect Data (what designers see)
+
+Effects are designed as a set of:
+  1. Trigger   - "when?"       
+  2. Condition - "under what circumstances?"  
+  3. Behaviour - "what happens?"              
+
+The designer also has control over the animation played, stack and duration, and what to display on the UI. 
+
 <p align="center">
   <img src="MarketingMaterial/BN_Design_EffectInspector.png" height="600" alt="Bakeneko Effect System Architecture Diagram">
 </p>
