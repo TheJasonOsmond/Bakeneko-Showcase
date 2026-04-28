@@ -47,6 +47,8 @@ Each encounter modifies scoring rules via positioning limits, multipliers, caps,
 No build remains stable throughout a run.
 Units evolve, stage rules shift, encounters escalate, and systemic modifiers introduce mid-run disruption, enforcing continuous adaptation rather than static optimization.
 
+_Inspiration: Balatro + Super Auto Pets_
+
 ---
 
 ## Technical Highlight - Modular Action & Event Architecture
