@@ -76,14 +76,19 @@ Allow designers to create:
 - **Inspector Tooling** — Odin-powered validation and clean conditional authoring workflows    
   
 ---  
-### Effect Data (what designers see)
+### Effect Data (Designer View)
 
-Effects are designed as a set of:
-  1. Trigger   - "when?"       
-  2. Condition - "under what circumstances?"  
-  3. Behaviour - "what happens?"              
+Effects are defined as a modular set of components:
 
-The designer also has control over the animation played, stack and duration, and what to display on the UI. 
+1. **Trigger** — *When does this effect occur?*  
+2. **Condition** — *Under what circumstances does it apply?*  
+3. **Behaviour** — *What happens when it resolves?*  
+
+In addition, designers can configure presentation and runtime behaviour, including:
+
+- Animation selection  
+- Stack behavior and duration  
+- UI representation  
 
 <p align="center">
   <img src="MarketingMaterial/BN_Design_EffectInspector.png" height="600" alt="Bakeneko Effect System Architecture Diagram">
