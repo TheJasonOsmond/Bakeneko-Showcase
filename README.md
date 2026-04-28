@@ -17,7 +17,7 @@
 
 ---
 
-## 📸 Gameplay Preview
+## Gameplay Preview
 
 <p align="center">
   <img src="MarketingMaterial/BN_Gameplay_Item.gif" width="32%" alt="Gameplay GIF 1">
@@ -27,21 +27,21 @@
 
 ---
 
-## 🩸 Project Overview
+## Project Overview
 
 **Bakeneko** is an in-development rogue-like auto-battler centered around modular systems design, replayability, and strategic emergent gameplay.
 
 ### Core Pillars:
-- 🧩 **Modular Action & Event Architecture** — Flexible, decoupled systems enabling complex interactions. Gives designers a way to make bespoke abilities by arranging smaller modules, no code needed.
+- **Modular Action & Event Architecture** — Flexible, decoupled systems enabling complex interactions. Gives designers a way to make bespoke abilities by arranging smaller modules, no code needed.
 
-- 🎮 **UI Focus Priority & Adaptive Pickup/Drop System** — Seamless mouse/controller transitions, event-driven pickup/drop architecture, auto-arranging party logic, and decoupled party-state integration.
+- **UI Focus Priority & Adaptive Pickup/Drop System** — Seamless mouse/controller transitions, event-driven pickup/drop architecture, auto-arranging party logic, and decoupled party-state integration.
 
-- 🃏 **Rogue-like Party Progression** — Encounter deck systems, strategic roster growth, and systemic progression loops.
+- **Rogue-like Party Progression** — Encounter deck systems, strategic roster growth, and systemic progression loops.
   
 
 ---
 
-## 🧩 Technical Highlight - Modular Action & Event Architecture
+## Technical Highlight - Modular Action & Event Architecture
 
 A modular, data-driven combat framework built around **Trigger → Condition → Behaviour** pipelines authored entirely through Unity’s inspector.  
   
