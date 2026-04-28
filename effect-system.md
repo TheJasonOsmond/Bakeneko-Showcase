@@ -1,6 +1,6 @@
 # ⚡ Effect & Action System — Technical Breakdown
 
-> **[← Back to README](./README)**
+> **[← Back to README](./README.md)**
 > **Category:** Data-Driven Combat Framework · Event Architecture · Ability Pipeline
 
 ---
