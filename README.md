@@ -68,7 +68,7 @@ Allow designers to create:
 ---  
 ### Effect Data (for designers)
 <p align="center">
-  <img src="MarketingMaterial/BN_Design_EffectInspector.png" width="900" alt="Bakeneko Effect System Architecture Diagram">
+  <img src="MarketingMaterial/BN_Design_EffectInspector.png" height="600" alt="Bakeneko Effect System Architecture Diagram">
 </p>
 
 ---
@@ -93,7 +93,7 @@ Allow designers to create:
 ### Architecture Overview
 
 <p align="center">
-  <img src="MarketingMaterial/BN_Design_EffectSystem.png" width="900" alt="Bakeneko Effect System Architecture Diagram">
+  <img src="MarketingMaterial/BN_Design_EffectSystem.png" height="600" alt="Bakeneko Effect System Architecture Diagram">
 </p>
 ---
 
