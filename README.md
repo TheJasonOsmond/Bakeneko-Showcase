@@ -141,4 +141,4 @@ This system shifts combat implementation from **Hardcoded one-off ability logic*
     - Encounter modifiers
     - Future game modes
 
-**[Read Full Technical Breakdown](../effect-system)**
+**[Read Full Technical Breakdown](/effect-system)**
