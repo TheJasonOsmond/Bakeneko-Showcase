@@ -66,7 +66,7 @@ Allow designers to create:
 - **Inspector Tooling** — Odin-powered validation and clean conditional authoring workflows    
   
 ---  
-### Effect Data (for designers)
+### Effect Data (what designers see)
 <p align="center">
   <img src="MarketingMaterial/BN_Design_EffectInspector.png" height="600" alt="Bakeneko Effect System Architecture Diagram">
 </p>
@@ -95,6 +95,7 @@ Allow designers to create:
 <p align="center">
   <img src="MarketingMaterial/BN_Design_EffectSystem.png" height="600" alt="Bakeneko Effect System Architecture Diagram">
 </p>
+
 ---
 
 ### Selected Snippet — Action Queue Protocol
