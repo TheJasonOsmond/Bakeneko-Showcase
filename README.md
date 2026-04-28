@@ -27,17 +27,25 @@
 
 ---
 
-## Project Overview
+## Bakeneko — Project Overview
 
-**Bakeneko** is an in-development rogue-like auto-battler centered around modular systems design, replayability, and strategic emergent gameplay.
+**Bakeneko** is a rogue-like auto-battler built around modular system design and emergent strategic gameplay, where players construct and maintain a deterministic “party engine” under continuously shifting constraints.
 
-### Core Pillars:
-- **Modular Action & Event Architecture** — Flexible, decoupled systems enabling complex interactions. Gives designers a way to make bespoke abilities by arranging smaller modules, no code needed.
+The player does not directly control combat units; instead, they assemble and evolve a systemic build that functions as a scoring machine, tested against increasingly complex rule-based encounters.
 
-- **UI Focus Priority & Adaptive Pickup/Drop System** — Seamless mouse/controller transitions, event-driven pickup/drop architecture, auto-arranging party logic, and decoupled party-state integration.
+### Core Pillars
 
-- **Rogue-like Party Progression** — Encounter deck systems, strategic roster growth, and systemic progression loops.
-  
+#### 1. Party Engine Construction (Build Crafting)
+Players build a deterministic party system rather than a collection of units.
+Synergies, positioning, evolution, artifacts, and item usage combine to form a composable scoring engine. The design focus is on engine diversity, not stat optimization.
+
+#### 2. Rule-Based Encounter Puzzles
+Encounters act as constraint layers on the engine rather than traditional enemy fights.
+Each encounter modifies scoring rules via positioning limits, multipliers, caps, or structural distortions, forcing players to evaluate whether their build remains valid under shifting conditions.
+
+#### 3. Adaptive Run Evolution (Instability System)
+No build remains stable throughout a run.
+Units evolve, stage rules shift, encounters escalate, and systemic modifiers introduce mid-run disruption, enforcing continuous adaptation rather than static optimization.
 
 ---
 
