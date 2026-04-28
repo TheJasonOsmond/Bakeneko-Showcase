@@ -5,7 +5,7 @@
   A technical and design-focused public showcase documenting architecture, gameplay systems, and development progress.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="YOUR_ITCH_IO_LINK_HERE">
     <img src="https://img.shields.io/badge/🎮%20Play%20on%20itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Play on itch.io">
   </a>
@@ -13,7 +13,7 @@
   <a href="YOUR_YOUTUBE_LINK_HERE">
     <img src="https://img.shields.io/badge/▶%20Watch%20Development%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Development Demo">
   </a>
-</p>
+</p> -->
 
 ---
 
